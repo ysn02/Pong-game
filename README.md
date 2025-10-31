@@ -122,4 +122,4 @@ This project is provided for educational and non-commercial use only.
 
 ## 👨‍💻 Author
 
-Developed by [Mariem hachemi and Doua chammekhi].
+Developed by Yassine Arbaoui
